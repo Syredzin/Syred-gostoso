@@ -1,0 +1,32 @@
+body {
+  color: black;
+  background-color: black;
+  font-family: Arial;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  justify-content: space-between;
+  list-style-type: center;
+  align-items: center;
+  font-size: 50px;
+  padding: 5px;
+}
+h1 {
+  padding: 16px;
+}
+
+
+
+a {
+  color: red;
+}
+
+img {
+  center {
+    text-align: center;
+    padding: 10px;
+  }
+}
